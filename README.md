@@ -32,7 +32,7 @@ Pytorch codes of 'Cross-Difference Semantic Consistency Network for Semantic Cha
 If you find our work useful or interesting, please consider to cite:
 > @ARTICLE{10494733,  
   author={Wang, Qi and Jing, Wei and Chi, Kaichen and Yuan, Yuan},  
-  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  journal={IEEE Transactions on Geoscience and Remote Sensing},  
   title={Cross-Difference Semantic Consistency Network for Semantic Change Detection},  
   year={2024},  
   volume={62},  
